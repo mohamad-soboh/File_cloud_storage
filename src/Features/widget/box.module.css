@@ -1,0 +1,167 @@
+.boxWrapperPurple {
+    width: 110px;
+    height: 98px;
+    background-color: rgb(102, 99, 254);
+    border-radius: 12px;
+    opacity: 1;
+    border: 0px;
+    display: flex;
+    position: relative;
+    margin:5px;
+    transform: scale(1);
+    transition: all .2s linear
+  }
+  .boxWrapperPurple:hover { 
+    transform: scale(1.1);transition: all .2s linear;
+  }
+  .boxWrapperGreen {
+    width: 110px;
+    height: 98px;
+    background-color:rgb(0, 160, 182);
+    border-radius: 12px;
+    opacity: 1;
+    border: 0px;
+    display: flex;
+    position: relative;
+    margin:5px;
+    transform: scale(1);
+    transition: all .2s linear
+  }
+  .boxWrapperGreen:hover { 
+    transform: scale(1.1);transition: all .2s linear;
+  }
+  .boxWrapperPink{
+    width: 110px;
+    height: 98px;
+    background-color: rgb(224, 108, 159);
+    border-radius: 12px;
+    opacity: 1;
+    border: 0px;
+    display: flex;
+    position: relative;
+    margin:5px;
+    transform: scale(1);
+    transition: all .2s linear
+  }
+  .boxWrapperPink:hover { 
+    transform: scale(1.1);transition: all .2s linear;
+  }
+  .boxWrapperBlue {
+    width: 110px;
+    height: 98px;
+    background-color: rgb(38, 111, 213);
+    border-radius: 12px;
+    opacity: 1;
+    border: 0px;
+    display: flex;
+    position: relative;
+    margin:5px;
+    transform: scale(1);
+    transition: all .2s linear
+  }
+  .boxWrapperBlue:hover { 
+    transform: scale(1.1);transition: all .2s linear;
+  }
+  .boxWrapperWhite {
+    width: 110px;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px;
+    opacity: 1;
+    border: 0px;
+    display: flex;
+    position: relative;
+    margin:5px;
+    transform: scale(1);
+    transition: all .2s linear
+  }
+  .boxWrapperWhite:hover { 
+    transform: scale(1.1);transition: all .2s linear;
+  }
+  .boxWrapperAdd {
+    width: 110px;
+    height: 90px;
+    background-color: rgb(245, 249, 253);
+    border-radius: 12px;
+    opacity: 1;
+    border: 0px;
+    display: flex;
+    position: relative;
+    margin:5px;
+    transform: scale(1);
+    transition: all .2s linear;
+  }
+  .boxWrapperAdd:hover { 
+    transform: scale(1.1);transition: all .2s linear;
+  }
+  
+  
+  .CatBoxType {
+    position: absolute;
+    left:10px;
+    top:10px;
+    color:white;
+  }
+  
+  
+  .CatBoxFavorites {
+    position: absolute;
+    left:80px;
+    top:15px;
+    color:yellow;
+  }
+ 
+  
+  .CatBoxTitle {
+    position: absolute;
+    left:10px;
+    top:55px;
+    font-size: 14px;
+    color:white;
+  }
+
+  .CatBoxDescription{
+    position: absolute;
+    left:10px;
+    top:75px;
+    font-size: 12px;
+    color:white;
+  }
+
+  .FilesBoxType {
+    position: absolute;
+    left:10px;
+    top:10px;
+  }   
+  .FilesBoxTitle {
+    position: absolute;
+    left:10px;
+    top:40px;
+    font-size: 14px;
+    color:black;
+  }
+
+  .FilesBoxDescription{
+    position: absolute;
+    left:10px;
+    top:60px;
+    font-size: 12px;
+    color:black;
+  }
+
+  .line{
+    position: absolute;
+    left:27.5px;
+    top:93%;
+    font-size: 1.5px;
+    width:50%;
+    background-color: rgb(200, 222, 254);
+    opacity: 0,3;
+  }
+
+  .AddBoxType {
+    position: absolute;
+    left:38%;
+    top:38%;
+    color: rgb(38, 111, 213);
+  }

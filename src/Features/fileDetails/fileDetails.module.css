@@ -1,0 +1,65 @@
+.mainContainer {
+  bottom: auto;
+  width: 690px;
+  height: 55px;
+  background-color: white;
+  border-radius: 5px;
+  margin: 5px;
+  position: relative;
+}
+.imageDetailsSection {
+  top: 10px;
+  left: 10px;
+  position: absolute;
+  width: 100px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.iconSection {
+  background-color: blue;
+  padding: 5px;
+  border-radius: 5px;
+}
+.DetailsSection {
+  font-size: 10px;
+  font-weight: 600;
+}
+.fileTypeSection {
+  top: 16px;
+  left: 170px;
+  position: absolute;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  color: rgb(146, 146, 146);
+    font-family: "Work Sans";
+    font-size: 14px;
+}
+.fileSizeSection {
+  top: 16px;
+  left: 330px;
+  position: absolute;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  color: rgb(146, 146, 146);
+    font-family: "Work Sans";
+    font-size: 14px;
+}
+.shareSection {
+  top: 18px;
+  left: 490px;
+  position: absolute;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.extraSection {
+  top: 18px;
+  left: 650px;
+  position: absolute;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
